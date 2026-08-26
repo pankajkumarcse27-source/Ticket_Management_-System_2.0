@@ -1,0 +1,4 @@
+Booking ID: 1001 | Customer: Pankaj Kr | Movie: Bahubali | Room: 3 | Ticket No: 11 | Price: Rs. 220.0
+Booking ID: 1002 | Customer: Munna Kumar | Movie: KGF | Room: 3 | Ticket No: 12 | Price: Rs. 200.0
+Booking ID: 1003 | Customer: Munna Kumar | Movie: Avatar | Room: 13 | Ticket No: 14 | Price: Rs. 300.0
+Booking ID: 1004 | Customer: RAj | Movie: Avengers | Room: 5 | Ticket No: 15 | Price: Rs. 250.0

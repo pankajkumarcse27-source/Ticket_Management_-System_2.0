@@ -1,6 +1,6 @@
 Ticket Booking Management System
 
-A "console-based Ticket Booking Management System" built using "ava, JDBC, MySQL, and FileWriter".
+A "console-based Ticket Booking Management System" built using "java, JDBC, MySQL, and FileWriter".
 
 This is one of my beginner Java projects, created while learning Java and database connectivity.
 
